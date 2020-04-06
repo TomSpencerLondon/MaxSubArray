@@ -31,7 +31,7 @@ public class MaxSubArrayShould {
   public static Object[] arraySum(){
     return new Object[][]{
             {new int[]{}, 0},
-            {new int[]{1, -3, 2, -5, 7, 6, -1, -4, 11, -23}, 13 },
+            {new int[]{1, -3, 2, -5, 7, 6, -1, -4, 11, -23}, 19 },
             {new int[]{-70, -59, -10, 20, 110, -300}, 130}
     };
   }
